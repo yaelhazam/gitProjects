@@ -1,1 +1,2 @@
 # gitProjects
+from the terminal
